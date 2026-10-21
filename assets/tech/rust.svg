@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="32" viewBox="0 0 62 32" role="img" aria-labelledby="title">
+  <title id="title">Rust</title>
+  <rect x="0.5" y="0.5" width="61" height="31" rx="7.5" fill="#f4f2ed" stroke="#dedbd3" />
+  <rect x="10" y="10" width="3" height="12" rx="1.5" fill="#70638f" />
+  <text x="21" y="20.5" fill="#182329" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Rust</text>
+</svg>
