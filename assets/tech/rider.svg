@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="32" viewBox="0 0 67 32" role="img" aria-labelledby="title">
+  <title id="title">Rider</title>
+  <rect x="0.5" y="0.5" width="66" height="31" rx="7.5" fill="#f4f2ed" stroke="#dedbd3" />
+  <rect x="10" y="10" width="3" height="12" rx="1.5" fill="#637868" />
+  <text x="21" y="20.5" fill="#182329" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Rider</text>
+</svg>
